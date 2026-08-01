@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Animations</title>
+  <style>
+    .box {
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: plum;
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+    animation:ghumakkad 2s ease-in-out 1s infinite
+    alternate;
+
+    }
+    @keyframes ghumakkad {
+      0% {left: 10px;}
+      50% {left: 50px;}
+      60% {left: 160px;}
+      100% {left: 200px;}
+}
+</style>
+</head>
+<body>
+  <div class="box">Animate</div>
+</body>
+</html>
