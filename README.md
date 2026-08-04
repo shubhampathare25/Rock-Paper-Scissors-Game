@@ -45,5 +45,13 @@ Stone-Paper-Scissor/
 
 ## Running the Project Locally
 
-# 1. Clone the repository
-
+ 1. Clone the repository
+```
+git clone https://github.com/shubhampathare25/Rock-Paper-Scissors-Game
+```
+ 2. Navigate to the project directory
+```
+cd Stone-Paper-Scissor
+```
+ 3. Open index.html in your browser
+  
