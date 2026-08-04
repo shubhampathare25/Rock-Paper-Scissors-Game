@@ -16,3 +16,16 @@ The project focuses on implementing JavaScript logic, handling user interactions
 * Real-time result display (Win / Lose / Draw)
 * Simple and user-friendly interface
 * Fast and responsive gameplay
+
+## Technologies Used
+
+* HTML – Game structure
+* CSS – Styling and layout
+* JavaScript – Game logic and interaction
+
+## Learning Outcomes
+
+* Understanding JavaScript conditional statements
+* Implementing game logic using programming concepts
+* Working with DOM manipulation and event handling
+* Updating UI dynamically based on user actions
