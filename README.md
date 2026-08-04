@@ -29,3 +29,18 @@ The project focuses on implementing JavaScript logic, handling user interactions
 * Implementing game logic using programming concepts
 * Working with DOM manipulation and event handling
 * Updating UI dynamically based on user actions
+
+## Project Structure
+```
+Stone-Paper-Scissor/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+## Preview
+
+<img width="957" height="444" alt="image" src="https://github.com/user-attachments/assets/89f222b2-00e6-4471-95c5-a33fcce9c8a2" />
+
+
